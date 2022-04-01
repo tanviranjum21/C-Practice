@@ -1,0 +1,13 @@
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.csproj.AssemblyReference.cache
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.AssemblyInfoInputs.cache
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.AssemblyInfo.cs
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.csproj.CoreCompileInputs.cache
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp3.1/LinkedListImplementation.deps.json
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp3.1/LinkedListImplementation.runtimeconfig.json
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp3.1/LinkedListImplementation.runtimeconfig.dev.json
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp3.1/LinkedListImplementation.dll
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp3.1/LinkedListImplementation.pdb
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.dll
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.pdb
+/Users/tanvir/Desktop/Own_tracker/C# projects /LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp3.1/LinkedListImplementation.genruntimeconfig.cache

@@ -17,6 +17,7 @@ public class LinkedList<T> : IEnumerable<T>
     }
 
     public Node root;
+    public Node current;
     public LinkedList()
     {
         root = null;
